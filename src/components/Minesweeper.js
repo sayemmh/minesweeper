@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext, Fragment } from "react";
-import MinesweeperContext from "../context/GameInfo/MinesweeperContext";
+import MinesweeperContext from "../context/MinesweeperContext";
 import Cell from "./Cell";
 import "./Minesweeper.css";
 import { cell_size } from "./constants";

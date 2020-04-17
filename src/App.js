@@ -1,6 +1,6 @@
 import React from "react";
 import Minesweeper from "./components/Minesweeper";
-import MinesweeperState from "./context/GameInfo/MinesweeperState";
+import MinesweeperState from "./context/MinesweeperState";
 import "./App.css";
 
 const App = () => {
