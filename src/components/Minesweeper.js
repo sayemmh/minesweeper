@@ -94,7 +94,7 @@ const Minesweeper = () => {
     }
     if (cur.has_mine) {
       set_grid(helper_game_over());
-      display_alert("You set off a bomb");
+      display_alert(`You set off a bomb. Total mines identified correctly: ${mines_identified}`);
       end_game(true);
       return;
     }

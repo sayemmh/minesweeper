@@ -13,7 +13,7 @@ const App = () => {
       </MinesweeperState>
       <div className="instructions">
         Rules - hold shift key and click to flag a mine. You will not be able to
-        flag more than 75 mines.
+        flag more than 50 mines.
       </div>
     </div>
   );
