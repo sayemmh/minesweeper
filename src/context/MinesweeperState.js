@@ -5,7 +5,7 @@ import MinesweeperReducer from "./MinesweeperReducer";
 // define constants
 const GRID_NUMBER_OF_ROWS = 18;
 const GRID_NUMBER_OF_COLS = 22;
-const GRID_NUMBER_OF_MINES = 30;
+const GRID_NUMBER_OF_MINES = 50;
 
 const MinesweeperState = props => {
   // Default Values
