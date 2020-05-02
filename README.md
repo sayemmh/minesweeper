@@ -1,4 +1,6 @@
-# sayem-minesweeper
+# minesweeper
+
+exercise to refamiliarize with react
 
 development instructions:
 
